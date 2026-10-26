@@ -1,10 +1,15 @@
 # Hello World 👋! 
-🎓 Computer Science student at Nottingham Trent University.
-💻 Comfortable with Python, Java, and C++, and currently building full-stack web projects using Flask, SQL, HTML/CSS, and Bootstrap.
-📈 Enjoy learning by building — my latest project is a deployed personal finance tracker (Python/Flask/SQLite).
+Hi, I’m Pavlo 
+I lift heavy things, watch cars go in circles at 300 km/h, and write code that breaks. I’m weirdly happy about all three.
+I’m a second-year Computer Science (AI) student at Nottingham Trent University. I like building things from scratch, and I like it even more when something breaks and I get to work out why.
+What I’ve built
+💰 SpendWise: a personal finance tracker with login, spending categories and dashboards, built with Python, Flask and SQLite, and deployed live → [!Live demo](https://finance-tracker-x3jk.onrender.com)
+👻 Darkness Awaits You: a text-based horror game in C++ with 15 branching storylines and multiple endings
+🚆 City Ride Lite: a Java console app for public transport, with separate rider and admin roles
+What I work with: Python · C++ · Java · SQL · Flask · HTML/CSS · Bootstrap · Git
+Looking for: a 12-month placement starting summer 2027, with a team where I can build things that real people use.
+📫 Get in touch on LinkedIn or at pavlozghoba@gmail.com
 
-I love building things on my own — I'm especially motivated by the idea of creating something that other people would actually use, not just coursework exercises. My latest project is a deployed personal finance tracker (Python/Flask/SQLite).
-⚽ Outside of code, I'm big into sport — football especially, but I'm generally active across most sports.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.passssha._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlozghoba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavlozghoba@gmail.com) 
