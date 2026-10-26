@@ -3,10 +3,15 @@ Hi, I’m Pavlo
 I lift heavy things, watch cars go in circles at 300 km/h, and write code that breaks. I’m weirdly happy about all three.
 I’m a second-year Computer Science (AI) student at Nottingham Trent University. I like building things from scratch, and I like it even more when something breaks and I get to work out why.
 What I’ve built
-💰 SpendWise: a personal finance tracker with login, spending categories and dashboards, built with Python, Flask and SQLite, and deployed live → [!Live demo](https://finance-tracker-x3jk.onrender.com)
-👻 Darkness Awaits You: a text-based horror game in C++ with 15 branching storylines and multiple endings
-🚆 City Ride Lite: a Java console app for public transport, with separate rider and admin roles
+
+💰 **SpendWise**: a personal finance tracker with login, spending categories and dashboards, built with Python, Flask and SQLite, and deployed live → [Live demo](https://finance-tracker-x3jk.onrender.com)
+
+👻 **Darkness Awaits You**: a text-based horror game in C++ with 15 branching storylines and multiple endings
+
+🚆 **City Ride Lite**: a Java console app for public transport, with separate rider and admin roles
+
 What I work with: Python · C++ · Java · SQL · Flask · HTML/CSS · Bootstrap · Git
+
 Looking for: a 12-month placement starting summer 2027, with a team where I can build things that real people use.
 📫 Get in touch on LinkedIn or at pavlozghoba@gmail.com
 
