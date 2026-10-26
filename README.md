@@ -1,5 +1,6 @@
 # Hello World 👋! 
 Hi, I’m Pavlo 
+
 I lift heavy things, watch cars go in circles at 300 km/h, and write code that breaks. I’m weirdly happy about all three.
 I’m a second-year Computer Science (AI) student at Nottingham Trent University. I like building things from scratch, and I like it even more when something breaks and I get to work out why.
 What I’ve built
