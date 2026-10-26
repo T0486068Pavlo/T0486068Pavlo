@@ -13,7 +13,7 @@ What I’ve built
 What I work with: Python · C++ · Java · SQL · Flask · HTML/CSS · Bootstrap · Git
 
 Looking for: a 12-month placement starting summer 2027, with a team where I can build things that real people use.
-📫 Get in touch on LinkedIn or at pavlozghoba@gmail.com
+📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/pavlozghoba/) or at pavlozghoba@gmail.com
 
 
 ## 🌐 Socials:
